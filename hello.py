@@ -1,3 +1,6 @@
-print("HELOOOOOOOOOOOOOO , World!")
+
+print("HELOOOOOOOOOO , World!")
 print("ВТОРОЕ ЗАДАНИЕ ")
-#TODO : Добавить проверку на пустой ввод.
+
+print("hello world")
+
